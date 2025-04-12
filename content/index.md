@@ -1,0 +1,1 @@
+Welcome to Jeff's Quartz, a place to crystallize thoughts and ideas into shareable tidbits.
