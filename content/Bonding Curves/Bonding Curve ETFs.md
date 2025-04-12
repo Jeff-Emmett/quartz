@@ -1,0 +1,14 @@
+- Asset baskets represented by index token
+- Prefer no oracles
+- Real estate assets, equity assets
+- Solution built for decentralized market, permissionless etc
+- Danger of balancer pools of one asset going to zero
+	- Circuit breaker risk pools
+- I = total supply
+- k = invariant
+- Ni = index per token
+- xi= number of tokens in basket
+- ki = IN
+- Requirements:  How can users mint?  How can users redeem? How can users buy?
+- Gyroscope risk tranched reserve asset pools
+- 

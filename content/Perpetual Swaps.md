@@ -1,0 +1,6 @@
+- Perp swaps as derivatives (e.g. options, futures, leverage) with no expiry
+- https://medium.com/derivadex/what-are-perpetual-swaps-130236587df2
+- Dopex: decentralized options exchange: https://www.dopex.io/
+- Opyn squeeth (eth^2 leverage): https://www.opyn.co/squeeth?ct=CA
+- Panoptic, no expiry, oracle free options: https://twitter.com/Panoptic_xyz
+	- While Panoptic allows you to hedge against Uniswap LP positions by shorting them, it also allows you to create puts, calls, straddles, jade lizards, zebra spreads, and [many other custom option payoffs](https://twitter.com/Panoptic_xyz/status/1628530117118169088?s=20)!
